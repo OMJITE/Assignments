@@ -1,0 +1,18 @@
+#Task 1
+a=input("enter your first number :")
+b=input("enter your second number :")
+d = float(a)
+e = float(b)
+Addition =  (d+e)
+substraction = (d-e)
+multiplication = (d*e)
+division = (d/e)
+print("Addition =",Addition)
+print("substraction =",substraction)
+print("multiplication =",multiplication)
+print("division =",division)
+#Task 2
+A1=input("enter your first name :")
+B1=input("enter your last name :")
+print("Hello",A1,B1,"!Welcome to the Python program")
+print("Thank you")
