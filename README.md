@@ -19,3 +19,23 @@ Enter your first name :Om
 Enter your last name :Jite
 Hello Om Jite !Welcome to the Python program
 Thank you
+
+
+
+## >> ASSIGNMENT 2
+
+
+##Task 1 
+To Check If a Number is Even Or Odd 
+#O/P:-
+1)Enter your number :12
+  12 is an even number.
+2)Enter your number :13
+  13 is an odd number.
+
+
+##Task 2
+To Calculate the sum of Integers from 1 to 50 Using a Loop
+#O/P:-
+The sum of numbers from 1 to 50 is: 1275
+Thank you
