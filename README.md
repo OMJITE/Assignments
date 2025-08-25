@@ -39,3 +39,23 @@ To Calculate the sum of Integers from 1 to 50 Using a Loop
 #O/P:-
 The sum of numbers from 1 to 50 is: 1275
 Thank you
+
+
+
+## >> ASSIGNMENT 3
+
+
+##Task 1 
+To Calculate Factorial using a function
+#O/P:-
+Enter The Number:11
+Factorial of 11 is : 39916800
+
+##Task 2
+To Create the math module for calculations
+#O/P:-
+Enter a number:11
+square root : 3.3166247903554
+logarithm : 2.3978952727983707
+Sine : -0.9999902065507035
+Thank you
