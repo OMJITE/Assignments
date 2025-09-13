@@ -59,3 +59,28 @@ square root : 3.3166247903554
 logarithm : 2.3978952727983707
 Sine : -0.9999902065507035
 Thank you
+
+
+
+## >> ASSIGNMENT 4
+
+
+##Task 1
+To Read a file and handle Errors.
+#O/P:-
+Reading file content:
+Line 1: This is a sample text file
+Line 2: It contains multiple lines
+
+##Task 2 
+To Write and append data to file.
+#O/P:-
+Enter text to write to the file: Hello,Python!
+Data successfully written to Output.txt
+Enter additional text to append: Learning file handling in Python.
+Data successfully appended to Output.txt
+Final content of Output.txt:
+Hello,Python!
+Learning file handling in Python.
+Thank you.
+
