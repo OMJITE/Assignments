@@ -82,5 +82,24 @@ Data successfully appended to Output.txt
 Final content of Output.txt:
 Hello,Python!
 Learning file handling in Python.
+
+
+
+## >> ASSIGNMENT 5
+
+
+##Task 1
+To create a dictionary of student marks
+#O/P:-
+Enter your name :Alice
+Alice Marks: 83
+
+##Task 2
+To Demonstrate List Slicing
+#O/P:-
+Original list: [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+Extracted first five elements: [1, 2, 3, 4, 5]
+Reverse extracted elements : [5, 4, 3, 2, 1]
+Thank you
 Thank you.
 
