@@ -103,3 +103,12 @@ Reverse extracted elements : [5, 4, 3, 2, 1]
 Thank you
 Thank you.
 
+
+
+## >> ASSIGNMENT 6
+
+
+##Task 1
+To create a calculator using "TKINTER"
+#O/P
+<img width="565" height="565" alt="Screenshot 2025-10-11 214328" src="https://github.com/user-attachments/assets/08314b32-1f89-4427-85fb-00b61968fa1e" />
