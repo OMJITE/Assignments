@@ -127,3 +127,15 @@ To Build Database Apps with PostgreSQL & Python
 
 
 <img width="1909" height="1070" alt="Screenshot 2025-10-12 085747" src="https://github.com/user-attachments/assets/5b601b75-c5ff-4d6c-bccc-7c93a053d03f" />
+<img width="1918" height="1079" alt="Screenshot 2025-10-12 090000" src="https://github.com/user-attachments/assets/c550abd1-bc14-449c-b7d0-f591e4e4bec9" />
+<img width="1919" height="1038" alt="Screenshot 2025-10-12 091031" src="https://github.com/user-attachments/assets/78b02b1a-7928-4c3d-a18d-91fb7e31e937" />
+<img width="1919" height="1060" alt="Screenshot 2025-10-12 091444" src="https://github.com/user-attachments/assets/275ebd9d-1983-4742-abf7-c0bdd0a9c162" />
+<img width="1911" height="1007" alt="Screenshot 2025-10-12 095631" src="https://github.com/user-attachments/assets/fe9a43c4-7677-4234-a822-b0c95e9f26a6" />
+<img width="1916" height="1068" alt="Screenshot 2025-10-12 095644" src="https://github.com/user-attachments/assets/8eb2d5d1-8854-4f06-8af1-f87f58683633" />
+<img width="1919" height="1063" alt="Screenshot 2025-10-12 145447" src="https://github.com/user-attachments/assets/0a897e27-976f-47c9-a8f0-160786fba129" />
+<img width="1919" height="1079" alt="Screenshot 2025-10-12 145456" src="https://github.com/user-attachments/assets/f9bd916d-ca93-45d1-8c16-5c7c731508e8" />
+<img width="1915" height="1079" alt="Screenshot 2025-10-12 150344" src="https://github.com/user-attachments/assets/c17557b9-f1d2-470a-8117-bde292d10a50" />
+<img width="1913" height="1021" alt="Screenshot 2025-10-12 150354" src="https://github.com/user-attachments/assets/0e6e5b49-99ca-44bf-9f6a-f6c44fd7d3c9" />
+<img width="1902" height="1055" alt="Screenshot 2025-10-12 172746" src="https://github.com/user-attachments/assets/7242e8bf-32e0-4636-a353-07fd8996fe13" />
+<img width="1913" height="1020" alt="Screenshot 2025-10-12 173824" src="https://github.com/user-attachments/assets/2e531123-0f04-4f45-b0f8-9baae7104b0c" />
+<img width="1919" height="986" alt="Screenshot 2025-10-12 173845" src="https://github.com/user-attachments/assets/3dcb85c1-4b1d-4ed1-a7b9-116c3036ad07" />
