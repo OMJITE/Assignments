@@ -130,7 +130,6 @@ To Build Database Apps with PostgreSQL & Python
 <img width="1918" height="1079" alt="Screenshot 2025-10-12 090000" src="https://github.com/user-attachments/assets/c550abd1-bc14-449c-b7d0-f591e4e4bec9" />
 <img width="1919" height="1038" alt="Screenshot 2025-10-12 091031" src="https://github.com/user-attachments/assets/78b02b1a-7928-4c3d-a18d-91fb7e31e937" />
 <img width="1919" height="1060" alt="Screenshot 2025-10-12 091444" src="https://github.com/user-attachments/assets/275ebd9d-1983-4742-abf7-c0bdd0a9c162" />
-<img width="1911" height="1007" alt="Screenshot 2025-10-12 095631" src="https://github.com/user-attachments/assets/fe9a43c4-7677-4234-a822-b0c95e9f26a6" />
 <img width="1916" height="1068" alt="Screenshot 2025-10-12 095644" src="https://github.com/user-attachments/assets/8eb2d5d1-8854-4f06-8af1-f87f58683633" />
 <img width="1919" height="1063" alt="Screenshot 2025-10-12 145447" src="https://github.com/user-attachments/assets/0a897e27-976f-47c9-a8f0-160786fba129" />
 <img width="1919" height="1079" alt="Screenshot 2025-10-12 145456" src="https://github.com/user-attachments/assets/f9bd916d-ca93-45d1-8c16-5c7c731508e8" />
