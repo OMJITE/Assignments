@@ -114,3 +114,16 @@ To create a calculator using "TKINTER"
 #O/P
 
 <img width="565" height="565" alt="Screenshot 2025-10-11 214328" src="https://github.com/user-attachments/assets/08314b32-1f89-4427-85fb-00b61968fa1e" />
+
+
+
+## >> ASSIGNMENT 7
+
+
+##Task 1
+To Build Database Apps with PostgreSQL & Python
+
+#O/P
+
+
+<img width="1909" height="1070" alt="Screenshot 2025-10-12 085747" src="https://github.com/user-attachments/assets/5b601b75-c5ff-4d6c-bccc-7c93a053d03f" />
